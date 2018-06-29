@@ -44,7 +44,7 @@ The project is described in a **single R
 markdown** document that can be processed by **knitr** and be
 transformed into an HTML file.
 
-Questions address in this project and steps taken:
+Questions addressed in this project and steps taken:
 
 ### Loading and preprocessing the data
 
